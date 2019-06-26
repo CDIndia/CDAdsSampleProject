@@ -1,0 +1,2 @@
+id,appName,appKey,secretKey,host,useBeaconLog,useOfferLog,useNotification
+1,Chalk Digital,midnightrambler,drawlswiftbayonet,https://gw.pinable.jp,true,false,false
